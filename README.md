@@ -1,6 +1,6 @@
 # Kavya-Gupta
 First-year B.Tech student building skills in programming, problem-solving, and digital technologies.
-# Hi, I'm Kavya Gupta 👋
+# I'm Kavya Gupta
 
 🎓 First Year B.Tech Student  
 🏫 VIT Bhopal University  
